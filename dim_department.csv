@@ -1,0 +1,9 @@
+department_id,department_name,cost_center,region
+1,Engineering,CC-1001,North
+2,Sales,CC-1002,West
+3,Marketing,CC-1003,West
+4,Operations,CC-1004,South
+5,Finance,CC-1005,North
+6,Human Resources,CC-1006,East
+7,Customer Support,CC-1007,South
+8,Research,CC-1008,North
